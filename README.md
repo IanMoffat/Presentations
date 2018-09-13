@@ -1,4 +1,5 @@
 # Presentations
-Copies of my Academic Presentations
+pdf copies of my recent academic presentations
 
-pdf copies of academic presentations
+These were presetented at:
+
